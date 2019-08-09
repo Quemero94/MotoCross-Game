@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=MW8HcwHK1S0
+
 var c = document.createElement("canvas");
 var ctx = c.getContext("2d");
 c.width = 500;
